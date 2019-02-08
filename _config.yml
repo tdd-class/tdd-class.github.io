@@ -11,28 +11,28 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: _site name_
-description: _description_
+title: TDD from scratch
+description: Un corso operativo per imparare TDD su C#
 owner:
-  name: _your name_ # or company name
-  url: "http://example.com" # your URL
-first_published: 2010 # if migrating another site, the year of your first publish
+  name: TDD Class # or company name
+  url: "https://arialdo.martini.github.io"
+first_published: 2019 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
-url: "http://example.com" # the base hostname & protocol for this site
+url: "https://tdd-class.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
             # Note you'll have to move your robots.txt to the root if you want it used.
             # And list multiple sitemaps if there are other subdirectories you want indexed
             # besides this blog.
-lang: en-us # used in HTML lang attributes
+lang: it-it # used in HTML lang attributes
 
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: _Your greeting_  
-  text: _Your detailed greeting text_
+  title: Impara Test-Driven Development su C#
+  text: Test-Driven Development è una delle più importanti tecniche delle metodologie Agile. TDD consente di scrivere codice flessibile, guidato dai test. Il codice scritto in TDD ha meno difetti, è più manutenibile, è più coesivo e disaccoppiato. <br /> La ricetta di TDD è semplice, ma non è semplice metterla in pratica. Se vuoi imparare TDD, vale la pena lasciarsi guidare dalla mano di esperti. <br/> In questo corso imparerai, mani sulla tastiera, come scrivere i test *prima* del codice produttivo. 
 # - displayed at the bottom
-closing-head: _Your closing_
-closing-para: _Your detailed closing_
+closing-head: Acquista il biglietto
+closing-para: Donec at pede.  Praesent fermentum tempor tellus.  In id erat non orci commodo lobortis.  Etiam laoreet quam sed arcu.  Vivamus id enim.  Donec pretium posuere tellus.  Nulla posuere.  Curabitur lacinia pulvinar nibh.  Curabitur lacinia pulvinar nibh.  Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus.
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
